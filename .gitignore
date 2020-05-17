@@ -1,5 +1,6 @@
 # data directory
 data
+open_news.db
 
 # settings.py
 settings.py

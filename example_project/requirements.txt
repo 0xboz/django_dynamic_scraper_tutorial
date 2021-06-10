@@ -9,7 +9,7 @@ constantly==15.1.0
 cryptography==2.9.2
 cssselect==1.1.0
 decorator==4.4.2
-Django==1.11.29
+Django==2.2.24
 django-celery==3.2.1
 django-dynamic-scraper==0.13.2
 future==0.17.1
